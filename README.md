@@ -1,4 +1,4 @@
-### Hi, I'm Caio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi, I'm Caio <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 <div align="center">
   <a href="https://github.com/caiopeternela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopeternela&show_icons=true&theme=monokai&include_all_commits=true&count_private=true">
