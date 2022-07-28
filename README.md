@@ -1,4 +1,4 @@
-### Salve <img height="30" width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
+### Hi <img height="30" width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
 
 ##
 
