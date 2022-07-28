@@ -1,7 +1,3 @@
-### Hi <img height="30" width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">
-
-##
-
 <div align="left">
   <a href="https://github.com/caiopeternela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiopeternela&show_icons=true&custom_title=Stats&theme=radical&include_all_commits=true&count_private=true&border_radius=2em&hide_border=true&hide_rank=true">
