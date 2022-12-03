@@ -1,4 +1,4 @@
-```js
+```python
 about_me = {
     name: "Caio Peternela",
     age: 19,
