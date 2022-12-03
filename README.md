@@ -1,7 +1,5 @@
-<div style="display:block;text-align:left">
-  
+<div style="display:block;text-align:left"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" border="0" style="width:250px;">
   ```css
-  <img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" border="0" style="width:200px;">
   about@me
   -----------------
   Name: Caio Peternela
