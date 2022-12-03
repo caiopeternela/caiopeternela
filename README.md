@@ -1,11 +1,11 @@
 ```js
-about_me = {
+aboutMe = {
     name: "Caio Peternela",
     age: 19,
     location: "Brazil",
     education: "BS in Computer Science",
     role: "Software Engineer Intern",
-    programming_languages: "Python, JavaScript, SQL & C",
+    programmingLanguages: "Python, JavaScript, SQL & C",
     frameworks: "Django & Vue.js",
     languages: "Portuguese, English & Spanish",
     linkedin: "https://www.linkedin.com/in/caiopeternela/",
