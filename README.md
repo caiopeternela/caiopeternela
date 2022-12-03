@@ -1,4 +1,4 @@
-<div style="display:block;text-align:left"><img align="left" src="https://w7.pngwing.com/pngs/885/1004/png-transparent-linux-kernel-linux-distribution-filesystem-hierarchy-standard-smoothi-bird-linux-kernel.png" border="0" style="width:240px;">
+<div style="display:block;text-align:left"><img align="left" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" border="0" style="width:240px;">
   
   ```css
   about@me
