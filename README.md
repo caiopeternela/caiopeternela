@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiopeternela&show_icons=true&theme=tokyonight&locale=en" alt="caiopeternela" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiopeternela&" alt="caiopeternela" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiopeternela&theme=tokyonight" alt="caiopeternela" /></p>
