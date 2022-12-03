@@ -1,4 +1,4 @@
-<div style="display:block;text-align:left"><img align="left" src="https://cdn-icons-png.flaticon.com/512/25/25719.png" border="0" style="width:250px;">
+<div style="display:block;text-align:left"><img align="left" src="https://www.pngitem.com/pimgs/m/201-2012093_linux-logo-png-linux-logo-transparent-background-png.png" border="0" style="width:250px;">
   
   ```css
   about@me
