@@ -1,9 +1,4 @@
-<div style="display:block;text-align:left">
-  <div align="left">
-    <a href="https://github.com/caiopeternela">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?              username=caiopeternela&show_icons=true&custom_title=Stats&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=2em&hide_border=true&h   ide_rank=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=caiopeternela&custom_title=Stack&layout=compact&langs_count=7&theme=tokyonight&card_width=230em&border_radius=1em&hide_border=true">
-  </div>
+<div style="display:block;text-align:left"><a href="https://github.com/caiopeternela"><img height="180em" src="https://github-readme-stats.vercel.app/api?  username=caiopeternela&show_icons=true&custom_title=Stats&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=2em&hide_border=true&h  ide_rank=true">
   
   ```css
   about@me
