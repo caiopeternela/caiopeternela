@@ -1,6 +1,6 @@
 ```
 about_me = {
-    "name": "Caio Peternela",
+    name: "Caio Peternela",
     "age": 19,
     "location": "Brazil",
     "education": "BS in Computer Science",
