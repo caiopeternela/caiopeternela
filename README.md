@@ -13,7 +13,7 @@
   Frameworks: Django & Vue.js
   Codewars: https://www.codewars.com/users/caiopeternela
   Hackerrank: https://www.hackerrank.com/caiopeternela
-  Leetcode: https://leetcode.com/profile/
+  Leetcode: https://leetcode.com/profile/caiopeternela
   Languages: Portuguese, English & Spanish
   Linkedin: https://www.linkedin.com/in/caiopeternela
   E-mail: caiopeternela.dev@gmail.com 
