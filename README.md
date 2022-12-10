@@ -1,4 +1,4 @@
-```python
+```bash
 aboutMe = {
     name: "Caio Peternela",
     age: 19,
