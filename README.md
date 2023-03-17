@@ -9,11 +9,7 @@
    :current-learning ["Clojure" "DevOps"]
    :frameworks ["Django" "Vue.js"]
    :languages ["Portuguese" "English" "Spanish"]
-   :hobbies {:gaming true
-             :movies true
-             :series true
-             :animes true
-             :tennis true}
+   :hobbies ["Gaming" "Tennis" "Movies" "Series" "Animes"]
    :linkedin "https://www.linkedin.com/in/caiopeternela/"
    :codewars "https://www.codewars.com/users/caiopeternela"
    :hackerrank "https://www.hackerrank.com/caiopeternela"
