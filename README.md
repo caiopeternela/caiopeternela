@@ -5,9 +5,9 @@
    :location "Brazil"
    :education "BS in Computer Science"
    :role "Software Engineer Intern"
-   :programming-languages ["Python" "JavaScript" "SQL" "C"]
-   :current-learning ["Clojure" "DevOps"]
-   :frameworks ["Django" "Vue.js"]
+   :programming-languages ["Python" "JavaScript" "C"]
+   :current-learning ["Clojure"]
+   :frameworks ["Django" "FastAPI" "Typer" "Vue.js"]
    :languages ["Portuguese" "English" "Spanish"]
    :hobbies ["Gaming" "Tennis" "Movies" "Series" "Animes"]
    :linkedin "https://www.linkedin.com/in/caiopeternela"
