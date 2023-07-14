@@ -4,7 +4,7 @@
    :age 20
    :location "Brazil"
    :education "BS in Computer Science"
-   :role "Software Engineer Intern"
+   :role "Software Engineer"
    :programming-languages ["Python" "JavaScript" "C"]
    :current-learning ["Clojure"]
    :frameworks ["Django" "FastAPI" "Typer" "Vue.js"]
