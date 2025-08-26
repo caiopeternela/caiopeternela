@@ -1,4 +1,4 @@
-🚀 building [@feedable](https://github.com/caiopeternela/feedable)  
+🚀 building [@obento-news](https://github.com/caiopeternela/obento-news)  
 💻 software engineer [@buserbrasil](https://github.com/buserbrasil)  
 🎓 computer science student [@unifesp](https://github.com/unifesp)  
 
